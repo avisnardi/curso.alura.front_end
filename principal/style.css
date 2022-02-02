@@ -1,0 +1,55 @@
+
+.Cabeçalho {
+	background: #0E6655;
+	padding: 20px 20px;
+	font-size: 24px;
+	font-weight: bold;
+	color:	#FFFFFF;
+}
+
+.Menu {
+	background: #138D75;
+	padding: 8px 8px;
+}
+
+.Menu li {
+	display: inline;
+	margin: 10px;
+}
+
+.Menu a {
+	text-decoration: none;
+	font-size: 16px;
+	font-weight: bold;
+	color:	#FFFFFF;
+}
+
+.Menu a:hover {
+	color:	#A9DFBF;
+}
+
+main {
+	padding: 10px 0px 0px 10px;
+	height: 805px;
+}
+
+.BotaoTeste01 {
+	background:#45B39D;
+	margin: 5px;
+
+}
+
+footer {
+	background: #0E6251;
+	text-align: center;
+	padding: 10px 0px;
+
+	position:absolute;
+	bottom:0;
+	width: 100%;
+}
+
+footer p {
+	color:	#FFFFFF;
+
+}
